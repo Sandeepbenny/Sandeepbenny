@@ -10,7 +10,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻  I’m currently working on android studio :wink:.
-- 🌱  I’m currently learning laravel. 
+- 🌱  I’m currently Pursuing Engineering in CSE. 
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: sandeepchackonal@gmail.com.
 
