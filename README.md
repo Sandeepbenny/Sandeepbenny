@@ -2,13 +2,15 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sandeep-benny-053b441a4/">LinkedIN</a>•
   <a href="https://www.instagram.com/sandeep7._/">Instagram</a>•
-  <img align="center" alt="vawebsites.in | Instagram" width="22px" src="https://png.pngtree.com/png-clipart/20200721/original/pngtree-instagram-logo-with-name-png-png-image_4842574.jpg" />•
   <a href="https://twitter.com/BennySandeep">Twitter</a>•
-  </br><img align="center" alt="vawebsites.in | LinkedIn" width="80px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />•</br>
+  </br>
+  <br>•<img align="center" alt="vawebsites.in | LinkedIn" width="80px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />•
+    <img align="center" alt="INSTAGRAM | Instagram" width="30px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1658825927~hmac=ed8f9e1a6d8a147874f2f0ff69649b44" />•
+    <img align="center" alt="vawebsites.in | Twitter" width="30px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955031.png?token=exp=1658825999~hmac=f5ef9f5f77b90a45ea5865802925b811" />•</br>
 </p>
 [<img align="left" alt="vawebsites.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://vawebsites.in)
 [<img align="left" alt="vawebsites.in | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCs2GJRNl0IEVC45ovwlyRUA)
-[<img align="left" alt="vawebsites.in | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/harshi6666)
+[<img align="left" alt="vawebsites.in | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955031.png?token=exp=1658825999~hmac=f5ef9f5f77b90a45ea5865802925b811" />](https://twitter.com/harshi6666)
 [<img align="left" alt="vawebsites.in | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/harshith-j-poojary-632b33129)
 [<img align="left" alt="vawebsites.in | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/harshith_va)
 
