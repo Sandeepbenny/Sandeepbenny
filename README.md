@@ -1,9 +1,16 @@
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">Sandeep Benny</a></h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/sandeep-benny-053b441a4/">LinkedIN</a> •
-  <a href="https://www.instagram.com/sandeep7._/">Instagram</a> •
-  <a href="https://twitter.com/BennySandeep">Twitter</a>
+  <a href="https://www.linkedin.com/in/sandeep-benny-053b441a4/">LinkedIN</a>•
+  <a href="https://www.instagram.com/sandeep7._/">Instagram</a>•
+  <img align="center" alt="vawebsites.in | Instagram" width="22px" src="https://png.pngtree.com/png-clipart/20200721/original/pngtree-instagram-logo-with-name-png-png-image_4842574.jpg" />•
+  <a href="https://twitter.com/BennySandeep">Twitter</a>•
+  </br><img align="center" alt="vawebsites.in | LinkedIn" width="80px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />•</br>
 </p>
+[<img align="left" alt="vawebsites.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://vawebsites.in)
+[<img align="left" alt="vawebsites.in | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCs2GJRNl0IEVC45ovwlyRUA)
+[<img align="left" alt="vawebsites.in | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/harshi6666)
+[<img align="left" alt="vawebsites.in | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/harshith-j-poojary-632b33129)
+[<img align="left" alt="vawebsites.in | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/harshith_va)
 
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
@@ -15,7 +22,7 @@
 - 📫  How to reach me: sandeepchackonal@gmail.com.
 
 ***
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandeepbenny" alt="Sandeepbenny" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandeepbenny" alt="Sandeepbenny" /> </a> </p>
  <br>
 
 📈 My Github stats <br />
