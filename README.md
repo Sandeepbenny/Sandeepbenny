@@ -16,7 +16,7 @@
 - 👨🏽‍💻  I’m currently working on Python:wink:.
 - 🌱  I’m currently Pursuing Engineering in CSE. 
 - 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: sandeepchackonal@gmail.com.
+- 📫  How to reach me: sandeepchackonal@gmail.com / sandeepchackonal@ajiet.edu.in .
 
 ***
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandeepbenny" alt="Sandeepbenny" /> </a> </p>
