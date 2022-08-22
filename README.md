@@ -5,9 +5,7 @@
   <a href="https://twitter.com/BennySandeep">Twitter</a>•
   </br>
   <br>
-   •<img align="center" alt="|Linked In" width="80px" src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />•
-    <img align="center" alt="| Instagram" width="30px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1658825927~hmac=ed8f9e1a6d8a147874f2f0ff69649b44" />•
-    <img align="center" alt="| Twitter" width="30px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955031.png?token=exp=1658825999~hmac=f5ef9f5f77b90a45ea5865802925b811" />•</br>
+  
 </p>
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
