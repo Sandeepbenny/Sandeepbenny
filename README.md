@@ -19,9 +19,9 @@
 - 📫  How to reach me: sandeepchackonal@gmail.com / sandeepchackonal@ajiet.edu.in .
 
 ***
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandeepbenny" alt="Sandeepbenny" /> </a> </p>
+<!--- Comments are Fun ---<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandeepbenny" alt="Sandeepbenny" /> </a> </p>
  <br>
-
+<!--- Comments are Fun --->
 📈 My Github stats <br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sandeepbenny&theme=dark&show_icons=true" alt="sandeepStats" />  
